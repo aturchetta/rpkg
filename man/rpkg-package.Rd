@@ -4,7 +4,7 @@
 \name{rpkg-package}
 \alias{rpkg}
 \alias{rpkg-package}
-\title{rpkg: What the Package Does (One Line, Title Case) TESTING THE CHANGES}
+\title{rpkg: What the Package Does (One Line, Title Case) TESTING THE CHANGES second time}
 \description{
 What the package does (one paragraph). TESTING THE CHANGES
 }

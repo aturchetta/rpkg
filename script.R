@@ -24,3 +24,7 @@ usethis::use_travis()
 # sets up testing infrastructure
 usethis::use_testthat()
 
+# this will setup the folders needed for the data and raw-data
+usethis::use_data_raw()
+
+
