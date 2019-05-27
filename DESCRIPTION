@@ -3,8 +3,9 @@ Title: What the Package Does (One Line, Title Case) TESTING THE CHANGES second t
 Version: 0.0.0.9000
 Imports: 
     lme4,
-    sjPlot,
-    MASS
+    sjPlot
+Depends:
+    R (>= 3.1)
 Authors@R: 
     person(given = "First",
            family = "Last",
