@@ -1,6 +1,9 @@
 Package: rpkg
 Title: What the Package Does (One Line, Title Case) TESTING THE CHANGES second time
 Version: 0.0.0.9000
+Imports: 
+    lme4,
+    sjPlot
 Authors@R: 
     person(given = "First",
            family = "Last",
