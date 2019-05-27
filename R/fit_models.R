@@ -19,6 +19,7 @@
 #' @importFrom sjPlot tab_model
 fit_models <- function(formula, data) {
   
+  TJ <- NULL
   fit.glmm <- lme4::glmer(formula, 
                           data = data, 
                           family = "poisson", 

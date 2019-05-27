@@ -5,8 +5,10 @@
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.org/aturchetta/rpkg.svg?branch=master)](https://travis-ci.org/aturchetta/rpkg)
+[![Build
+Status](https://travis-ci.org/aturchetta/rpkg.svg?branch=master)](https://travis-ci.org/aturchetta/rpkg)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/aturchetta/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/aturchetta/rpkg)
 <!-- badges: end -->
 
 The goal of rpkg is to … TESTING THE CHANGES
@@ -33,6 +35,11 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(rpkg)
+#> Registered S3 methods overwritten by 'ggplot2':
+#>   method         from 
+#>   [.quosures     rlang
+#>   c.quosures     rlang
+#>   print.quosures rlang
 ## basic example code
 ```
 
