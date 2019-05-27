@@ -15,9 +15,10 @@ knitr::opts_chunk$set(
 # rpkg
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/aturchetta/rpkg.svg?branch=master)](https://travis-ci.org/aturchetta/rpkg)
 <!-- badges: end -->
 
-The goal of rpkg is to ...
+The goal of rpkg is to ... TESTING THE CHANGES
 
 ## Installation
 
